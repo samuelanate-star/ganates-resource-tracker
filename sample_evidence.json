@@ -1,0 +1,7 @@
+{
+  "repository": "payments-service",
+  "contribution_kind": "implementation",
+  "patch_id": "replace-with-collector-output",
+  "commit": "replace-with-actual-commit",
+  "criteria": [{"id": "PAY-01", "result": "pass", "artifact": "private-ci-run-42"}]
+}
